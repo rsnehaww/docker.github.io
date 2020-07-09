@@ -10,7 +10,7 @@ toc_min: 1
 ---
 
 ## Reference and guidelines
-
+ok1
 These topics describe version 3 of the Compose file format. This is the newest
 version.
 
